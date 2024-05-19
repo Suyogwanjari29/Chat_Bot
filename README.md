@@ -37,7 +37,7 @@ MedBot - Healthcare Chatbot
 
  <h2>Installation</h2>
     <p>Clone the repository:</p>
-    <pre><code>git clone https://github.com/your-username/medbot.git</code></pre>
+    <pre><code>git clone https://github.com/Suyogwanjari29/Chat_Bot.git</code></pre>
     <p>Install dependencies:</p>
     <pre><code>pip install -r requirements.txt</code></pre>
 
